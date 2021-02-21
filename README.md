@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 want to be a gopher
 
 <!--
 **twoDragonBear/twoDragonBear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
